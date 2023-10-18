@@ -1,8 +1,16 @@
-# Mrm
+<!-- [![npm](https://img.shields.io/npm/v/mrm.svg)](https://www.npmjs.com/package/mrm) [![Codecov](https://codecov.io/gh/sapegin/mrm/branch/master/graph/badge.svg)](https://codecov.io/gh/sapegin/mrm) [![Node.js CI status](https://github.com/sapegin/mrm/workflows/Node.js%20CI/badge.svg)](https://github.com/sapegin/mrm/actions) -->
 
-[![npm](https://img.shields.io/npm/v/mrm.svg)](https://www.npmjs.com/package/mrm) [![Codecov](https://codecov.io/gh/sapegin/mrm/branch/master/graph/badge.svg)](https://codecov.io/gh/sapegin/mrm) [![Node.js CI status](https://github.com/sapegin/mrm/workflows/Node.js%20CI/badge.svg)](https://github.com/sapegin/mrm/actions)
+# Maram
+
+P.S. Readme is a WIP
+
+Maram (മരം) is a fork of the excellent library [mrm](https://github.com/sapegin/mrm) with an aim of more active development and adding features. See [mrm project status](https://github.com/sapegin/mrm/discussions/298)
 
 Command line tool to help you keep configuration (`package.json`, `.gitignore`, `.eslintrc`, etc.) of your open source projects in sync.
+
+## Goals
+1. Always be feature and api compatible with [mrm](https://github.com/sapegin/mrm) or keep one api that is compatible with it
+2. Stay lean. The project should only have absolutely necessary dependencies
 
 ## Features
 
@@ -73,6 +81,6 @@ Bug fixes are welcome, but not new features. Please take a moment to review the 
 
 ## Authors and license
 
-[Artem Sapegin](https://sapegin.me) and [contributors](https://github.com/sapegin/mrm/graphs/contributors).
+[Artem Sapegin](https://sapegin.me), [Allen Francis](https://github.com/lallenfrancisl) and [contributors](https://github.com/lallenfrancisl/maram/graphs/contributors).
 
 MIT License, see the included [License.md](License.md) file.
